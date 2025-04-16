@@ -1,4 +1,0 @@
-2025-04-14 14:59:58,832 - INFO - Successfully fetched and parsed the webpage.
-2025-04-14 14:59:58,851 - ERROR - Unexpected error: [Errno 2] No such file or directory: 'C:/Users/uncommonStudent/OneDrive/Desktop/job_scraper\\scraped_data.csv'
-2025-04-14 15:06:45,787 - INFO - Successfully fetched and parsed the webpage.
-2025-04-14 15:06:45,789 - ERROR - Unexpected error: No job listings found. The structure might have changed.
